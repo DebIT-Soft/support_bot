@@ -1,0 +1,8 @@
+environs==9.3.2
+Flask_Mail==0.9.1
+aiogram==2.13
+Flask==2.0.1
+PyMySQL==1.0.2
+attrs==21.2.0
+aiogram_broadcaster==0.0.6
+attr==0.3.1
